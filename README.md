@@ -19,4 +19,4 @@ The simulation results are consistent with standard economic theory, confirming 
 - `NumPy`
 - `Matplotlib`
 
-### *Author: Chiara Pizzetti
+### *Author: Chiara Pizzetti*
